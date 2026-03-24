@@ -64,3 +64,5 @@ plt.show()
 
 # Result
 The given data shows a positive correlation between X and Y, and the regression line represents their relationship.
+
+LINK : https://github.com/Jenil-10/Correlation_Regression.git
